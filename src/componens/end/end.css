@@ -1,0 +1,18 @@
+.end{
+    background-color: rgb(24, 23, 23);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    height: 300px;
+    align-items: center;
+}
+.end p{
+    color: white;
+}
+.end h1{
+    color: white;
+}
+.end img{
+    height: 200px;
+    width: 200px;
+}

@@ -1,0 +1,11 @@
+form {
+    font-size: 2rem;
+  }
+.login button{
+    height: 60px;
+    width: 500px;
+}
+.login input{
+    height: 60px;
+    width: 500px;
+}
